@@ -50,3 +50,5 @@ have been added to this repository. My way of looking at projects has changed si
 through this program. I used to see it as a singular time spent on it. Once it is done, I move on, 
 but that is no longer the case. I learned that these projects can be an evolving process that you 
 can keep learning from. I look forward to the future and increasing my knowledge every day.
+
+
