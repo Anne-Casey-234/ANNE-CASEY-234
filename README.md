@@ -99,5 +99,25 @@ identify bottlenecks and come up with clever solutions to make things run faster
 While working on this code I struggled with balancing efficiency with readability. I spent a lot of 
 time trying to find that sweet spot where my code would run fast and smooth without sacrificing 
 clarity and functionality. Overcoming these challenges was all part of the fun of coding and 
-growing as a programmer. 
+growing as a programmer.  
+
+Enhancement Three: Databases
+
+ For this Enhancement I have taken code from my Computational Graphics and Visualization 
+course. The code I will be enhancing was from my module 6 assignment called tutorial 6-3. For 
+this enhancement I chose to convert a portion of the code from the language C++ to JavaScript. 
+Converting code between languages in the realm of databases is vital for developers as it enables 
+them to work with various database systems and technologies. This flexibility allows developers 
+to adapt to different project requirements, collaborate with diverse teams, and optimize database 
+performance across different platforms. It is like being multilingual in the world of databases. It 
+broadens your horizons, enhances your skills, and makes the developer more versatile. 
+
+ While converting the codes I had some challenges because of the difference in data types and 
+memory management between the two languages. C++ is a statically typed language with 
+explicit memory management. While JavaScript is dynamically typed with automatic memory 
+management. This transition was tricky, because the developer needs to adapt the code structure 
+to accommodate JavaScript’s dynamic nature. It was like translating a detailed technical manual 
+into a more flexible and dynamic format, while trying to ensure the information remained 
+accurate and accessible in the new language. 
+
 
