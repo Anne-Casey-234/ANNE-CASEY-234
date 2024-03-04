@@ -81,4 +81,23 @@ developer is an ever-evolving career and I look forward to my continued understa
 area.
 
 
+Enhancement Two:Algoritims and Data Structures
+
+ For this Enhancement I have taken code from my Computational Graphics and Visualization 
+course. The code I will be enhancing was from my module 6 assignment called tutorial 6-3. I 
+chose this scene to optimize the time complexity. By analyzing the algorithm, you can find 
+unnecessary steps or redundant calculations that can be eliminated or simplified, thereby 
+reducing the time complexity. Reducing time complexity is crucial because it helps make our 
+code runs faster and more efficiently. By optimizing the time complexity of algorithms, we can 
+handle larger inputs without slowing down the program. It is like making sure our code works 
+smoothly and quickly, which is important, especially when dealing with complex computations 
+or large datasets. 
+
+ Improving the time complexity in coding shows off your problem-solving skills, algorithmic 
+thinking, and efficiency in optimizing code. It demonstrates your ability to analyze algorithms, 
+identify bottlenecks and come up with clever solutions to make things run faster and smoother. 
+While working on this code I struggled with balancing efficiency with readability. I spent a lot of 
+time trying to find that sweet spot where my code would run fast and smooth without sacrificing 
+clarity and functionality. Overcoming these challenges was all part of the fun of coding and 
+growing as a programmer. 
 
